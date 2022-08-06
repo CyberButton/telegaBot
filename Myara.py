@@ -2,7 +2,7 @@ import telebot
 
 from apscheduler.schedulers.blocking import BlockingScheduler
 
-bot = telebot.TeleBot('5326250099:AAEWi-VcjkA8F-bqp0yO_FA1mKqTOnquUXE')
+bot = telebot.TeleBot('(place for token)')
 
 
 @bot.message_handler()
